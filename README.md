@@ -17,7 +17,7 @@ https://www.kaggle.com/datasets/rabieelkharoua/alzheimers-disease-dataset
 ---
 
 ## 📂 Dataset
-- ** Alzheimer’s Disease Dataset ** – Kaggle  
+-  Alzheimer’s Disease Dataset  – Kaggle  
 - **2,149** records, **34** features  
 - **Target:** `Diagnosis`  
   - `0` = No Alzheimer’s  
